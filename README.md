@@ -38,7 +38,7 @@
 
 ## As Planner
 
-### PokemonLike ---[View Repository] ()
+### PokemonLike ---[View Repository] (https://github.com/hipop1109-dev/Slime)
 
 <br/>
 
@@ -59,7 +59,7 @@
 
 
 
-### Absorber ---[View Repository] ()
+### Absorber ---[View Repository] (https://github.com/hipop1109-dev/Absorber)
 
 <br/>
 
@@ -81,7 +81,7 @@
 <br/>
 
 
-### So-Hot ---[View Repository] ()
+### So-Hot ---[View Repository] (https://github.com/Yj621/So-hot)
 
 <br/>
 
@@ -103,8 +103,28 @@
 
 <br/>
 
+
+### Slime ---[View Repository] (https://github.com/hipop1109-dev/Slime)
+
+<br/>
+
+**Overview :** 2D 클리커 육성 게임
+
+<br/>
+
+**역할**
+- 4가지 게이지의 수치를 활용한 **캐릭터 강화 시스템** 구현
+- 다양한 활동과 알바 등을 활용한 **부가 행동 및 상점** 시스템
+- 수치를 활용한 **멀티 엔딩 기능** 구현
+**성과**
+- 클리커 게임 특유의 다양한 선택지와 방향성 구현
+- 여러 부가 기능을 통한 선택지의 다양성 부여
+- 플레이어에게 성취감을 부여하는 여러 기능 적용
+
+<br/>
+
 ## As Team Member
-### Witch ---[View Repository] ()
+### Witch ---[View Repository] (https://github.com/Yj621/Witch)
 
 <br/>
 
@@ -124,7 +144,7 @@
 
 <br/>
 
-### HorrorVN ---[View Repository] ()
+### HorrorVN ---[View Repository] (https://github.com/insoeng64/horrorVN)
 
 <br/>
 
