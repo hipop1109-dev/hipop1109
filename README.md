@@ -134,7 +134,7 @@
 ## As Team Member
 ### Witch ---[View Repository](https://github.com/Yj621/Witch)
 
-<img width="500" alt="Image" src= ""/>
+<img width="500" alt="Image" src= "https://github.com/user-attachments/assets/b854ffa8-8a36-4e03-b2c7-81197e86377a"/>
 
 <br/>
 
