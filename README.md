@@ -112,7 +112,7 @@
 
 ### Slime ---[View Repository](https://github.com/hipop1109-dev/Slime)
 
-<img width="500" alt="Image" src= ""/>
+<img width="500" alt="Image" src= "https://github.com/user-attachments/assets/73fbda69-3a49-427b-8fd6-c9f51bb0c450"/>
 
 <br/>
 
