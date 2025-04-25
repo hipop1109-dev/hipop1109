@@ -156,7 +156,7 @@
 
 ### HorrorVN ---[View Repository](https://github.com/insoeng64/horrorVN)
 
-<img width="500" alt="Image" src= ""/>
+<img width="500" alt="Image" src= "https://github.com/user-attachments/assets/e3c4a0d9-f235-4ea9-80c2-c805db03aadd"/>
 
 <br/>
 
