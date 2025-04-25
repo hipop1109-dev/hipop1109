@@ -40,6 +40,8 @@
 
 ### PokemonLike ---[View Repository](https://github.com/hipop1109-dev/Slime)
 
+<img width="500" alt="Image" src= "https://github.com/user-attachments/assets/fb53a2c8-d395-4647-94ae-93bc1c4d1798"/>
+
 <br/>
 
 **Overview :** 픽셀 기반 2D 턴제 전투 게임
