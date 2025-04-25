@@ -10,14 +10,14 @@
 
 # Contents
 
-- [Tech Stack](#-teck-stack)
+- [Tech Stack](#-tech-stack)
 - [Projects](#-projects)
-  - [As Planner(기획 담당)](#-as-planner)
+  - [As Planner](#-as-planner)
     - [PokeMonLike](#-pokemonlike)
     - [Absorber](#-absorber)
     - [So-Hot](#-so-hot)
     - [Slime](#-slime)
-  - [As Team Member(팀원)](#-as-team-member
+  - [As Team Member](#-as-team-member)
     - [Witch](#-witch)
     - [HorrorVN](#-horrorvn)
 - [Algorithm Practice](#-algorithm-practice)
