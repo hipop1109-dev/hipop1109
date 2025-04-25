@@ -21,14 +21,15 @@
     -[Witch]()
     -[HorrorVN]()
 -[Algorithm Practice]()
--[Contact]
+-[Contact]()
 
 <br/>
 
 <br/>
+
 # Tech Stack
 
-`Unity` `C#` `C++` `Photon` `GitHub` `Notion` 'Jira'
+`Unity` `C#` `C++` `Photon` `GitHub` `Notion` `Jira`
 
 <br/>
 
