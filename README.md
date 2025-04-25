@@ -45,6 +45,7 @@
 **Overview :** 픽셀 기반 2D 턴제 전투 게임
 
 <br/>
+
 **역할**
 - StateMacine을 활용한 **턴제 전투 기능** 설계
 - Scriptable Object를 활용한 특색있고 다양한 **개별 능력치 몬스터** 구현
