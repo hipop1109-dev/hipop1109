@@ -11,17 +11,17 @@
 # Contents
 
 - [Tech Stack](#-teck-stack)
-- [Projects](#projects)
-  - [As Planner(기획 담당)](#-finished)
-    - [PokeMonLike]()
-    - [Absorber]()
-    - [So-Hot]()
-    - [Slime]()
-  - [For Team Member(팀원)]
-    - [Witch]()
-    - [HorrorVN]()
-- [Algorithm Practice]()
-- [Contact]()
+- [Projects](#-projects)
+  - [As Planner(기획 담당)](#-as-planner)
+    - [PokeMonLike](#-pokemonlike)
+    - [Absorber](#-absorber)
+    - [So-Hot](#-so-hot)
+    - [Slime](#-slime)
+  - [As Team Member(팀원)](#-as-team-member
+    - [Witch](#-witch)
+    - [HorrorVN](#-horrorvn)
+- [Algorithm Practice](#-algorithm-practice)
+- [Contact](#-contact)
 
 <br/>
 
