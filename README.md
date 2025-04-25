@@ -87,7 +87,7 @@
 
 ### So-Hot ---[View Repository](https://github.com/Yj621/So-hot)
 
-<img width="500" alt="Image" src= ""/>
+<img width="500" alt="Image" src= "https://github.com/user-attachments/assets/f062f5fc-cf47-4a8d-accc-756fe74c6242"/>
 
 <br/>
 
