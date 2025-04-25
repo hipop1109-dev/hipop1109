@@ -2,26 +2,26 @@
 
 특색있는 아이디어와 풍부한 기획 경험, 그리고 이를 받쳐주는 다양하고 디테일한 개발 능력을 지니고 있는 개발자 장조성이라고 합니다!
 
--Unity 툴을 활용한 게임 개발자
--다수의 팀 프로젝트 기획 경험을 통한 **기획 능력과 아이디어 창출** 강점
--GitHub, Notion, Jira 등을 활용한 다양한 협업 경험
+- Unity 툴을 활용한 게임 개발자
+- 다수의 팀 프로젝트 기획 경험을 통한 **기획 능력과 아이디어 창출** 강점
+- GitHub, Notion, Jira 등을 활용한 다양한 협업 경험
 
 <br/>
 
 # Contents
 
--[Tech Stack](#-teck-stack)
--[Projects](#projects)
-  -[As Planner(기획 담당)](#-finished)
-    -[PokeMonLike]()
-    -[Absorber]()
-    -[So-Hot]()
-    -[Slime]()
-  -[For Team Member(팀원)]
-    -[Witch]()
-    -[HorrorVN]()
--[Algorithm Practice]()
--[Contact]()
+- [Tech Stack](#-teck-stack)
+- [Projects](#projects)
+  - [As Planner(기획 담당)](#-finished)
+    - [PokeMonLike]()
+    - [Absorber]()
+    - [So-Hot]()
+    - [Slime]()
+  - [For Team Member(팀원)]
+    - [Witch]()
+    - [HorrorVN]()
+- [Algorithm Practice]()
+- [Contact]()
 
 <br/>
 
