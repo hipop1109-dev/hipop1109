@@ -38,7 +38,7 @@
 
 ## As Planner
 
-### PokemonLike ---[View Repository] (https://github.com/hipop1109-dev/Slime)
+### PokemonLike ---[View Repository](https://github.com/hipop1109-dev/Slime)
 
 <br/>
 
@@ -59,7 +59,7 @@
 
 
 
-### Absorber ---[View Repository] (https://github.com/hipop1109-dev/Absorber)
+### Absorber ---[View Repository](https://github.com/hipop1109-dev/Absorber)
 
 <br/>
 
@@ -81,7 +81,7 @@
 <br/>
 
 
-### So-Hot ---[View Repository] (https://github.com/Yj621/So-hot)
+### So-Hot ---[View Repository](https://github.com/Yj621/So-hot)
 
 <br/>
 
@@ -104,7 +104,7 @@
 <br/>
 
 
-### Slime ---[View Repository] (https://github.com/hipop1109-dev/Slime)
+### Slime ---[View Repository](https://github.com/hipop1109-dev/Slime)
 
 <br/>
 
@@ -124,7 +124,7 @@
 <br/>
 
 ## As Team Member
-### Witch ---[View Repository] (https://github.com/Yj621/Witch)
+### Witch ---[View Repository](https://github.com/Yj621/Witch)
 
 <br/>
 
@@ -144,7 +144,7 @@
 
 <br/>
 
-### HorrorVN ---[View Repository] (https://github.com/insoeng64/horrorVN)
+### HorrorVN ---[View Repository](https://github.com/insoeng64/horrorVN)
 
 <br/>
 
