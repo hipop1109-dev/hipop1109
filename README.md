@@ -20,6 +20,7 @@
   - [As Team Member](#-as-team-member)
     - [Witch](#-witch)
     - [HorrorVN](#-horrorvn)
+    - [MonkeyIsland](#-monkeyisland)
 - [Algorithm Practice](#-algorithm-practice)
 - [Contact](#-contact)
 
@@ -172,6 +173,23 @@
 - 공포게임 특유의 긴장감을 더욱 효과적으로 부여
 - 캐릭터의 다양한 행동을 효과적으로 제어 및 오류 감소
   
+<br/>
+
+### IslandMonkey ---[View Repository]()
+
+<img width="500" alt="Image" src= ""/>
+
+<br/>
+
+**Overview :** 3D 기반 모바일 타이쿤 게임
+
+<br/>
+
+**역할**
+- 다양한 언어를 편리하게 변환하고 지원하는 **로컬라이징** 기능 구현
+**성과**
+-게임의 접근성에 도움을 주고 해외 유저들을 끌어모을 수 있는 능력을 가지게 되었음
+
 <br/>
 
 # Algorithm Practice
