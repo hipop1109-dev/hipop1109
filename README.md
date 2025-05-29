@@ -196,7 +196,7 @@
 
 ### Crystal Rush ---[View Repository](https://github.com/youjin-43/Random-Block-Defense)
 
-<img width="500" alt="Image" src= "![Image]https://github.com/user-attachments/assets/d95d2151-5d08-488d-91e6-3cdf1fabdf99"/>
+<img width="500" alt="Image" src= "https://github.com/user-attachments/assets/d95d2151-5d08-488d-91e6-3cdf1fabdf99"/>
 
 <br/>
 
