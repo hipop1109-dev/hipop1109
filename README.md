@@ -175,7 +175,7 @@
   
 <br/>
 
-### IslandMonkey ---[View Repository]()
+### IslandMonkey ---[View Repository](https://github.com/UnityBASAKK/Monkey)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/f4140173-491e-4f06-a2ea-b7e976bd6f89"/>
 
@@ -187,10 +187,32 @@
 
 **역할**
 - 다양한 언어를 편리하게 변환하고 지원하는 **로컬라이징** 기능 구현
+- 젠킨스 툴을 활용한 **빌드 자동화** 시스템 구현
 
 **성과**
 -게임의 접근성에 도움을 주고 해외 유저들을 끌어모을 수 있는 능력을 가지게 되었음
+-개발을 더욱 편리하게 도와주는 서포트 기능 습득
+<br/>
 
+### Crystal Rush ---[View Repository](https://github.com/youjin-43/Random-Block-Defense)
+
+<img width="500" alt="Image" src= "![Image]https://github.com/user-attachments/assets/d95d2151-5d08-488d-91e6-3cdf1fabdf99"/>
+
+<br/>
+
+**Overview :** 2D 하이퍼 캐주얼 대전 게임
+
+<br/>
+
+**역할**
+- 에셋을 활용한 **블럭 배치** 기능 및 **몬스터 공격 기초** 기능 구현
+- 다양한 효과들을 적용한 **UI** 기능 구현
+- FireBase를 활용한 **로그인**과 **데이터베이스** 활용 정보 저장 기능 구현
+- 
+**성과**
+-게임의 기초 로직에 대한 기반을 다짐
+-하이퍼캐주얼 게임의 핵심 중 하나인 UI 디자인에 대한 기술력 상승
+-사용자 정보 관리에 대한 기초 지식과 활용법, 그리고 제한 방법에 대한 기술 습득
 <br/>
 
 # Algorithm Practice
