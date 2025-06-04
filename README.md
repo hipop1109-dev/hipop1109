@@ -232,3 +232,5 @@
 
 - **GitHub** : [github.com/hipop1109](https://github.com/hipop1109)  
 - **Email** : hipop1109@naver.com  
+- **Notion** : [https://omniscient-cover-f0c.notion.site/19cbc504dc81805f833ce08d96426cdf?pvs=74](https://omniscient-cover-f0c.notion.site/19cbc504dc81805f833ce08d96426cdf?pvs=74)
+- **Velog** : [https://velog.io/@hipop1109-dev/posts](https://velog.io/@hipop1109-dev/posts)
