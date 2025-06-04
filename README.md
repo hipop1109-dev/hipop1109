@@ -10,19 +10,20 @@
 
 # Contents
 
-- [Tech Stack](#-tech-stack)
-- [Projects](#-projects)
-  - [As Planner](#-as-planner)
-    - [PokeMonLike](#-pokemonlike)
-    - [Absorber](#-absorber)
-    - [So-Hot](#-so-hot)
-    - [Slime](#-slime)
-  - [As Team Member](#-as-team-member)
-    - [Witch](#-witch)
-    - [HorrorVN](#-horrorvn)
-    - [MonkeyIsland](#-monkeyisland)
-- [Algorithm Practice](#-algorithm-practice)
-- [Contact](#-contact)
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+  - [As Planner](#as-planner)
+    - [PokeMonLike](#pokemonlike)
+    - [Absorber](#absorber)
+    - [So-Hot](#so-hot)
+    - [Slime](#slime)
+  - [As Team Member](#as-team-member)
+    - [Witch](#witch)
+    - [HorrorVN](#horrorvn)
+    - [MonkeyIsland](#monkeyisland)
+    - [Crystal Rush](#crystal-rush)
+- [Algorithm Practice](#algorithm-practice)
+- [Contact](#contact)
 
 <br/>
 
