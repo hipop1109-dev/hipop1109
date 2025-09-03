@@ -218,6 +218,27 @@
 
 <br/>
 
+### RabbitAndTurtle ---[View Repository](https://github.com/kdsh627/RabbitAndTurtle)
+<img width="642" height="387" alt="Image" src="https://github.com/user-attachments/assets/f8abae2b-57ab-4c84-aab4-3489c83fe397" />
+
+<br/>
+
+**Overview :** 2D 탑다운 뱀서라이크 게임
+
+<br/>
+
+**역할**
+-  **비헤이비어트리**와 **내브메쉬**를 활용한 **몬스터 AI** 기능 구현
+- AI와 셰이더를 활용한 **맵 디자인** 구현
+- **오브젝트 풀링**과 **스테이트 머신**을 활용한 **몬스터 로직** 구현
+- 여러 상호작용을 하는 메인 캐릭터 구현
+  
+**성과**
+-몬스터 AI에 대한 기초지식 확립
+-풀에 대한 더욱 강화된 이해도로 인한 메모리 사용량 대폭 감소
+
+<br/>
+
 # Algorithm Practice
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hipop1109)](https://solved.ac/kuj0430/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hipop1109&theme=warm)
