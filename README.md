@@ -22,6 +22,7 @@
     - [HorrorVN](#horrorvn)
     - [MonkeyIsland](#monkeyisland)
     - [Crystal Rush](#crystal-rush)
+    - [Rabbit And Turtle](#rabbit-and-tutrtle)
 - [Algorithm Practice](#algorithm-practice)
 - [Contact](#contact)
 
@@ -234,8 +235,8 @@
 - 여러 상호작용을 하는 메인 캐릭터 구현
   
 **성과**
--몬스터 AI에 대한 기초지식 확립
--풀에 대한 더욱 강화된 이해도로 인한 메모리 사용량 대폭 감소
+- 몬스터 AI에 대한 기초지식 확립
+- 풀에 대한 더욱 강화된 이해도로 인한 메모리 사용량 대폭 감소
 
 <br/>
 
