@@ -23,6 +23,7 @@
     - [MonkeyIsland](#monkeyisland)
     - [Crystal Rush](#crystal-rush)
     - [Rabbit And Turtle](#rabbit-and-tutrtle)
+    - [Word Eater](#word-eater)
 - [Algorithm Practice](#algorithm-practice)
 - [Contact](#contact)
 
@@ -240,6 +241,28 @@
 
 <br/>
 
+### WordEater ---[View Repository](https://github.com/kdsh627/RabbitAndTurtle)
+<img width="275" height="575" alt="Image" src="https://github.com/user-attachments/assets/e2141813-27f1-41e4-bcc2-eb0e340a13f2" />
+
+<br/>
+
+**Overview :** 2D 육성 시뮬레이터 게임
+
+<br/>
+
+**역할**
+-  **파이썬**와 **연관 단어 알고리즘**를 활용한 **단어 유사도** 기능 구현 협업
+- 유니티의 UI를 활용한 **단어 합성 기능** 구현
+- 여러 가지 미니게임 요소 구현
+- 게임의 전반적인 아트 요소 작업
+- 게임의 총괄 기획 담당
+  
+**성과**
+- 파이썬에 대한 이해도와 단어 알고리즘 이해도 증대
+- 유니티 UI에 대한 이해도 증
+
+<br/>
+
 # Algorithm Practice
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hipop1109)](https://solved.ac/kuj0430/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hipop1109&theme=warm)
@@ -253,6 +276,5 @@
 # Contact
 
 - **GitHub** : [github.com/hipop1109](https://github.com/hipop1109)  
-- **Email** : hipop1109@naver.com  
-- **Notion** : [https://omniscient-cover-f0c.notion.site/19cbc504dc81805f833ce08d96426cdf?pvs=74](https://omniscient-cover-f0c.notion.site/19cbc504dc81805f833ce08d96426cdf?pvs=74)
+- **Email** : hipop1109@gmail.com  
 - **Velog** : [https://velog.io/@hipop1109-dev/posts](https://velog.io/@hipop1109-dev/posts)
