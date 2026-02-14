@@ -43,7 +43,6 @@
 ## As Planner
 
 ### PokemonLike
-### ---[View Repository](https://github.com/hipop1109-dev/Slime)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/fb53a2c8-d395-4647-94ae-93bc1c4d1798"/>
 
@@ -251,7 +250,7 @@
 <br/>
 
 ### Word Eater 
-### ---[View Repository](https://github.com/kdsh627/RabbitAndTurtle)
+### ---[View Repository](https://github.com/Yj621/Word_Eater)
 <img width="275" height="575" alt="Image" src="https://github.com/user-attachments/assets/e2141813-27f1-41e4-bcc2-eb0e340a13f2" />
 
 <br/>
