@@ -163,7 +163,6 @@
 <br/>
 
 ### HorrorVN 
-### ---[View Repository](https://github.com/insoeng64/horrorVN)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/e3c4a0d9-f235-4ea9-80c2-c805db03aadd"/>
 
@@ -184,7 +183,6 @@
 <br/>
 
 ### IslandMonkey 
-### ---[View Repository](https://github.com/UnityBASAKK/Monkey)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/f4140173-491e-4f06-a2ea-b7e976bd6f89"/>
 
@@ -205,7 +203,6 @@
 <br/>
 
 ### Crystal Rush 
-### ---[View Repository](https://github.com/youjin-43/Random-Block-Defense)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/d95d2151-5d08-488d-91e6-3cdf1fabdf99"/>
 
