@@ -42,7 +42,8 @@
 
 ## As Planner
 
-### PokemonLike ---[View Repository](https://github.com/hipop1109-dev/Slime)
+### PokemonLike
+[View Repository](https://github.com/hipop1109-dev/Slime)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/fb53a2c8-d395-4647-94ae-93bc1c4d1798"/>
 
