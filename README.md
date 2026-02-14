@@ -43,7 +43,7 @@
 ## As Planner
 
 ### PokemonLike
----[View Repository](https://github.com/hipop1109-dev/Slime)
+### ---[View Repository](https://github.com/hipop1109-dev/Slime)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/fb53a2c8-d395-4647-94ae-93bc1c4d1798"/>
 
@@ -67,7 +67,7 @@
 
 
 ### Absorber 
----[View Repository](https://github.com/hipop1109-dev/Absorber)
+### ---[View Repository](https://github.com/hipop1109-dev/Absorber)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/16b57466-2eca-4a7b-8b6b-e5ff8e60a4c3"/>
 
@@ -92,7 +92,7 @@
 
 
 ### So-Hot 
----[View Repository](https://github.com/Yj621/So-hot)
+### ---[View Repository](https://github.com/Yj621/So-hot)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/f062f5fc-cf47-4a8d-accc-756fe74c6242"/>
 
@@ -118,7 +118,7 @@
 
 
 ### Slime 
----[View Repository](https://github.com/hipop1109-dev/Slime)
+### ---[View Repository](https://github.com/hipop1109-dev/Slime)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/73fbda69-3a49-427b-8fd6-c9f51bb0c450"/>
 
@@ -141,7 +141,7 @@
 
 ## As Team Member
 ### Witch 
----[View Repository](https://github.com/Yj621/Witch)
+### ---[View Repository](https://github.com/Yj621/Witch)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/b854ffa8-8a36-4e03-b2c7-81197e86377a"/>
 
@@ -164,7 +164,7 @@
 <br/>
 
 ### HorrorVN 
----[View Repository](https://github.com/insoeng64/horrorVN)
+### ---[View Repository](https://github.com/insoeng64/horrorVN)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/e3c4a0d9-f235-4ea9-80c2-c805db03aadd"/>
 
@@ -185,7 +185,7 @@
 <br/>
 
 ### IslandMonkey 
----[View Repository](https://github.com/UnityBASAKK/Monkey)
+### ---[View Repository](https://github.com/UnityBASAKK/Monkey)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/f4140173-491e-4f06-a2ea-b7e976bd6f89"/>
 
@@ -206,7 +206,7 @@
 <br/>
 
 ### Crystal Rush 
----[View Repository](https://github.com/youjin-43/Random-Block-Defense)
+### ---[View Repository](https://github.com/youjin-43/Random-Block-Defense)
 
 <img width="500" alt="Image" src= "https://github.com/user-attachments/assets/d95d2151-5d08-488d-91e6-3cdf1fabdf99"/>
 
@@ -228,8 +228,8 @@
 
 <br/>
 
-### RabbitAndTurtle 
----[View Repository](https://github.com/kdsh627/RabbitAndTurtle)
+### Rabbit And Turtle 
+### ---[View Repository](https://github.com/kdsh627/RabbitAndTurtle)
 <img width="642" height="387" alt="Image" src="https://github.com/user-attachments/assets/f8abae2b-57ab-4c84-aab4-3489c83fe397" />
 
 <br/>
@@ -250,8 +250,8 @@
 
 <br/>
 
-### WordEater 
----[View Repository](https://github.com/kdsh627/RabbitAndTurtle)
+### Word Eater 
+### ---[View Repository](https://github.com/kdsh627/RabbitAndTurtle)
 <img width="275" height="575" alt="Image" src="https://github.com/user-attachments/assets/e2141813-27f1-41e4-bcc2-eb0e340a13f2" />
 
 <br/>
